@@ -50,6 +50,7 @@ Please feel free to use the tools you are most comfortable and productive with. 
 - **IDE**: VS Code, Visual Studio, or your preferred editor
 - **Terminal**: Command prompt, PowerShell, or bash
 - **Browser**: Chrome, Firefox, Edge with developer tools
+- **API Testing**: Postman, Insomnia, Thunder Client (VS Code extension), or your browser's developer tools for testing API endpoints
 - **Markdown Reader**: We recommend using VS Code or another markdown-capable editor to easily navigate the comprehensive documentation and CLAUDE.md guidance files throughout the repository
 
 ### AI Coding Assistants Welcome

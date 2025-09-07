@@ -101,6 +101,7 @@ When you visit `http://localhost:3000`, you should see:
 - **Build fails**: Ensure .NET 8 SDK is installed correctly
 - **Function doesn't start**: Verify Azure Functions Core Tools are installed (`func --version`)
 - **Port conflict**: Check that port 7071 is available, or use `func start --port 7072`
+- **API testing**: Use Postman, Insomnia, Thunder Client (VS Code extension), or your browser's developer tools to test API endpoints
 
 ### Web App Issues
 - **Dependencies fail**: Ensure Node.js v18+ is installed (`node --version`)
