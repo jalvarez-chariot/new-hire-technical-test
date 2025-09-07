@@ -110,6 +110,10 @@ When you visit `http://localhost:3000`, you should see:
 - **CORS errors**: Ensure both applications are running on the specified ports
 - **Path issues**: Make sure you're in the correct directory when running commands
 
+## For Candidates
+
+**📋 Interview Preparation**: If you're preparing for a technical interview, please see the [Technical Challenge Preparation Guide](docs/technical-challenge_preparation-guide.md) for detailed setup instructions.
+
 ## Next Steps
 
 Once both applications are running successfully, you're ready for the technical challenge session!

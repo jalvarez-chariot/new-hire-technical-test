@@ -1,24 +1,25 @@
 Full Stack Developer Technical Challenge - Preparation Guide
-Hi [Candidate Name],
+Hi!
 
 Thank you for moving forward in the interview process with Chariot Energy! The next step is a one-hour collaborative coding session. The goal is not to quiz you, but to simulate a real-world development task and see how we can solve problems together.
 
 To ensure we can make the most of our time, please complete the following setup steps before our scheduled interview.
 
-Your Goal Before the Interview
+## Your Goal Before the Interview
 Your objective is to clone the provided repository and ensure you can run both the back-end API and the front-end web application locally. This will allow us to dive straight into the coding tasks during our session.
 
-The Repository
+## The Repository
+
 You can find the starter project here:
-[Link to your GitHub Repository]
+**https://github.com/jalvarez-chariot/new-hire-technical-test**
 
 ## Pre-Interview Setup Steps
 
 ### 1. Clone the Repository
 Clone the project to your local machine:
 ```bash
-git clone [repository-url]
-cd chariot-tech-challenge
+git clone https://github.com/jalvarez-chariot/new-hire-technical-test.git
+cd new-hire-technical-test
 ```
 
 ### 2. Review the Structure
