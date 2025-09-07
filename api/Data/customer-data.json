@@ -1,0 +1,20 @@
+[
+  {
+    "id": "CUST-001",
+    "name": "Solaris Innovations",
+    "status": "Active",
+    "memberSince": "2022-08-15"
+  },
+  {
+    "id": "CUST-002",
+    "name": "Gridwise Solutions",
+    "status": "Active",
+    "memberSince": "2021-11-20"
+  },
+  {
+    "id": "CUST-003",
+    "name": "Kinetic Power Co.",
+    "status": "Inactive",
+    "memberSince": "2023-01-10"
+  }
+]
