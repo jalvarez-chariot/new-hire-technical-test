@@ -8,6 +8,7 @@ Welcome to the Chariot Energy technical challenge! This repository contains a li
 - [Azure Functions Core Tools](https://learn.microsoft.com/en-us/azure/azure-functions/functions-run-local)
 - [Node.js](https://nodejs.org/) (v18 or newer)
 - An IDE of your choice (VS Code, Visual Studio, etc.)
+- **Recommended**: A markdown-capable editor (like VS Code) to easily browse the extensive documentation and CLAUDE.md guidance files throughout this repository
 
 ## Running the Applications Locally
 

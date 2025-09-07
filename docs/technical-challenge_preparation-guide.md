@@ -50,6 +50,7 @@ Please feel free to use the tools you are most comfortable and productive with. 
 - **IDE**: VS Code, Visual Studio, or your preferred editor
 - **Terminal**: Command prompt, PowerShell, or bash
 - **Browser**: Chrome, Firefox, Edge with developer tools
+- **Markdown Reader**: We recommend using VS Code or another markdown-capable editor to easily navigate the comprehensive documentation and CLAUDE.md guidance files throughout the repository
 
 ### AI Coding Assistants Welcome
 We view modern tools, including AI coding assistants (like GitHub Copilot, Claude, etc.), as a standard part of a developer's toolkit. You are welcome and encouraged to use them during the session just as you would in your day-to-day work.
