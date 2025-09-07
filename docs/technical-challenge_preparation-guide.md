@@ -1,4 +1,4 @@
-Full Stack Developer Technical Challenge - Preparation Guide
+# Full Stack Developer Technical Challenge - Preparation Guide
 Hi!
 
 Thank you for moving forward in the interview process with Chariot Energy! The next step is a one-hour collaborative coding session. The goal is not to quiz you, but to simulate a real-world development task and see how we can solve problems together.
